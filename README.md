@@ -1,4 +1,4 @@
-# 👋# Hi there! I'm Rutvik <img src="https://media.giphy.com/media/hvRJCLJzejawV4L7dc/giphy.gif" width="35">
+# 👋# Hi there! I'm Rutvik <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhkMWZsZDJhbDdtMXNnNHA3ZHdtNmxqcndpOWVpejBuMWkzYXZ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pTWmFuaHLQpxoT5Py5/giphy.gif" width="35">
 
 ## Senior Python Backend Developer
 
@@ -29,19 +29,29 @@ I thrive on solving complex problems, optimizing system performance, and writing
 <div align="center">
 
 ### Programming Languages
+<div align="center">
 <img src="https://skillicons.dev/icons?i=python,perl,sql" alt="Languages">
+</div>
 
 ### Backend & Frameworks
+<div align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django" alt="Frameworks">
+</div>
 
 ### Databases & Storage
+<div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases">
+</div>
 
 ### Cloud & DevOps
+<div align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" alt="Cloud & DevOps">
+</div>
 
 ### Tools & Technologies
+<div align="center">
 <img src="https://skillicons.dev/icons?i=github,gitlab,nginx,postman" alt="Tools">
+</div>
 
 </div>
 
